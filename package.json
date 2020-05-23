@@ -1,0 +1,16 @@
+{
+  "name": "image-shrink",
+  "version": "1.0.0",
+  "description": "Image Optimizer",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dev": "nodemon --exec electron ."
+  },
+  "author": "Mehmet Tahça",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^9.0.0",
+    "nodemon": "^2.0.4"
+  }
+}
